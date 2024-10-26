@@ -1,5 +1,7 @@
 TLVArchive downloader.
+
 It will download files from https://archive-binyan.tel-aviv.gov.il
+
 Input - chromdriver path
       - csv files which contains Tat rove, Gush and Chelka list, as Downloaded from the municipal GIS.
       (must have the following fields: "ktatrova", "ms_gush", "ms_chelka")
